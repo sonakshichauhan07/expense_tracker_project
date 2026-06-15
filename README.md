@@ -279,9 +279,9 @@ After completing this project, you will understand:
 
 ## 👨‍💻 Author
 
-**Aman Rathore**
+**Sonakshi chauhan**
 
-Mechanical Engineer (2015–2020) | Python Learner | Aspiring Software Developer
+BCA student | Python Learner | Aspiring Software Developer
 
 This project was created to practice Python fundamentals and gain hands-on experience in building real-world applications.
 
